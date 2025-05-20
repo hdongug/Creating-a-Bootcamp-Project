@@ -53,3 +53,7 @@ java -cp "target/classes;lib/*" com.travel.app.TravelApp
 4. 추가 프로젝트
 - 웹 사이트에서도 프로그램 실행
 - 톰캣 및 스프링 부트로 프로그램 제작 예정
+
+
+4. 프로그램 실행
+```bash
