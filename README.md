@@ -35,7 +35,7 @@ travel-app/
 └── README.md
 ```
 
-##추가 제작 예정 사항
+## 추가사항항
 
 - 웹사이트로도 실행 가능하도록 구현 예정
 - 웹사이트 프로그램 예상으론 tomcat 및 Spring boot 프로그램으로 구현 예정
@@ -54,4 +54,3 @@ javac -cp "lib/*" -encoding UTF-8 -d target/classes src/main/java/com/travel/**/
 3. 프로그램 실행
 ```bash
 java -cp "target/classes;lib/*" com.travel.app.TravelApp
-
