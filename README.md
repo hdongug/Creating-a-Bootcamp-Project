@@ -51,5 +51,6 @@ javac -cp "lib/*" -encoding UTF-8 -d target/classes src/main/java/com/travel/**/
 java -cp "target/classes;lib/*" com.travel.app.TravelApp
 
 4. 추가 프로젝트
+```bash
 - 웹 사이트에서도 프로그램 실행
 - 톰캣 및 스프링 부트로 프로그램 제작 예정
