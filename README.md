@@ -35,6 +35,10 @@ travel-app/
 └── README.md
 ```
 
+##추가 제작 예정 사항
+- 웹사이트로도 실행 가능하도록 구현 예정
+- 웹사이트 프로그램 예상으론 tomcat 및 Spring boot 프로그램으로 구현 예정
+
 ## 실행 방법
 
 1. 데이터베이스 설정
@@ -50,6 +54,3 @@ javac -cp "lib/*" -encoding UTF-8 -d target/classes src/main/java/com/travel/**/
 ```bash
 java -cp "target/classes;lib/*" com.travel.app.TravelApp
 
-4. 추가 프로젝트
-- 웹 사이트에서도 프로그램 실행
-- 톰캣 및 스프링 부트로 프로그램 제작 예정
