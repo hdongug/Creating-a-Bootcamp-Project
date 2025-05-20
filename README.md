@@ -4,7 +4,7 @@
 
 ## 기능
 
-1. 전체 관광지 목록 조회 (페이징)
+1. 전체 관광지 목록 조회 (페이지)
 2. 권역별 관광지 조회
 3. 관광지 검색
 
@@ -49,3 +49,7 @@ javac -cp "lib/*" -encoding UTF-8 -d target/classes src/main/java/com/travel/**/
 3. 프로그램 실행
 ```bash
 java -cp "target/classes;lib/*" com.travel.app.TravelApp
+
+4. 추가 프로젝트
+- 웹 사이트에서도 프로그램 실행
+- 톰캣 및 스프링 부트로 프로그램 제작 예정
